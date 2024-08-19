@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = shani.mcfarlane96@gmail.com
+	name = shani.mcfarlane96@gmail.com
